@@ -1,0 +1,46 @@
+body {
+  background-color: #FFD36E;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted #99FFCD;
+  border-width: 10px;
+  width: 10%;
+}
+
+h1 {
+  color: #9FB4FF;
+}
+
+h2 {
+  color: #9FB4FF;
+}
+
+.blurb {
+  color: #FFF56D;
+  background-color: #9FB4FF;
+}
+
+.desc {
+  background-color: #99FFCD;
+}
+
+.meContainer {
+  background-color: #FFF56D;
+
+}
+
+.contents {
+  background-color: #FFF56D;
+}
+
+.projectsContainer {
+  background-color: #FFF56D;
+  width: 70%;
+  float: right;
+}
+
+.educationContainer {
+  background-color: #FFF56D;
+}
