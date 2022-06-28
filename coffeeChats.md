@@ -43,6 +43,7 @@ He can stay up all night playing video games or playing sports with a group of f
 ### Another frontend Dev
 **Who is Maggie?**
 A friend of a friend... of a friend who has an amazing website and a great Front End Dev! Was the Sony version of Luan doing testing for Play Station but for the store for a few coops. A CS/Business student at UoW who's been to a many hackathons and has used that as a base for starting projects. Apparently if you force yourself to start and finish a project in 3 days, you'll do that!
+
 **Hobbies?**
 - Why didn't I ask this? Ohh... I hadn't talked to Nick yet!
 **Takeaways**
@@ -63,6 +64,7 @@ A friend of a friend... of a friend who has an amazing website and a great Front
 ## Aaron "Coffee Chat or Party Chat?"
 **Who is Aaron?**
 Someone who's had lots of experience making small video games (He might play a lot of games) but thinks he might want to go into Fullstack dev. A CS student at UoT that's not really sure where he wants to go. He's used some Django and has taken many OS courses. WebDev because who doesn't go into that right... Josh... Maggie...?
+
 **Hobbies**
 - Likes to play video games
 - .... That's about all I got before the party vibes reached us....
