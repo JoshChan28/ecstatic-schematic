@@ -23,3 +23,9 @@
 - Padding - Distance from text to borders
 - border - widtch of the border around box
 - maring - distance around the border to seperate divs
+- Block displays take up the whole width of the screen
+  - <p> Tags are blocks  </p>
+- Inline displays only take up what is needed for the elements
+  - <span> <a> are inlines
+  - inline elements cannot chnage width (spans cannot)
+- inline block allows us to change both the width and have a block

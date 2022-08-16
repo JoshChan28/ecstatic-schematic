@@ -1,5 +1,6 @@
 body {
   background-color: #FFD36E;
+  font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -11,36 +12,51 @@ hr {
 
 h1 {
   color: #9FB4FF;
+  font-family: 'Bungee Shade', cursive;
+
 }
 
 h2 {
   color: #9FB4FF;
+  font-family: 'Bebas Neue', cursive;
 }
-
 .blurb {
   color: #FFF56D;
   background-color: #9FB4FF;
 }
-
 .desc {
   background-color: #99FFCD;
 }
-
 .meContainer {
   background-color: #FFF56D;
+  position: relative;
+  display: inline-block;
+  width: auto;
+}
 
+.meText{
+  display: inline-block;
+  position: relative;
+  bottom: auto;
+  margin: 10px;
+}
+
+.pp{
+  margin: 10px;
 }
 
 .contents {
   background-color: #FFF56D;
 }
-
 .projectsContainer {
   background-color: #FFF56D;
   width: 70%;
   float: right;
 }
-
 .educationContainer {
   background-color: #FFF56D;
+}
+.start {
+  font-weight: bold;
+  font-size: 2em;
 }
