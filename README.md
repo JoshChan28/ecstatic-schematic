@@ -4,4 +4,5 @@
 This website was built using with the udemy course `The Complete 2022 Web Development Bootcamp`
 ### Logs
 ** When did I last work on this?**
+- 2023/09/07 - Updating experiences and adding mech page for MECH 460 Capstone project
 - 2022/06/25 - Tags, Classes, IDs, Psudo code
